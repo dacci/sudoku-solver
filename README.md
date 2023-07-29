@@ -3,18 +3,17 @@
 ## Usage
 
 ```console
-sudoku 0.1.0
+$ sudoku --help
 Sudoku solver
 
-USAGE:
-    sudoku <PATH>
+Usage: sudoku <PATH>
 
-ARGS:
-    <PATH>    Path to the file that contains values of cells
+Arguments:
+  <PATH>  Path to the file that contains values of cells
 
-OPTIONS:
-    -h, --help       Print help information
-    -V, --version    Print version information
+Options:
+  -h, --help     Print help
+  -V, --version  Print version
 ```
 
 ## Example
